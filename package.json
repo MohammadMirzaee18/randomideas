@@ -1,0 +1,19 @@
+{
+  "name": "randomideas",
+  "version": "1.0.0",
+  "description": "Random Project Ideas",
+  "repository": {
+    "type": "git",
+    "url": "github.com/MohammadMirzaee18/randomideas"
+  },
+  "license": "MIT",
+  "author": "MohammadMirzaee",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
